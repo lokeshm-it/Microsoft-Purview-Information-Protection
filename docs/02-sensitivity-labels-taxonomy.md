@@ -187,5 +187,5 @@ TAXONOMY
 
 ---
 
-![Sensitivity Labels management page showing the full label taxonomy in Microsoft Purview portal](../images/02-sensitivity-labels/01-sensitivity-labels-list.avif)
+![Sensitivity Labels management page showing the full label taxonomy in Microsoft Purview portal](../images/02-sensitivity-labels/02-sensitivity-labels__01-sensitivity-labels-list.avif)
 *Appendix A.1 — Sensitivity Labels management page — compliance.microsoft.com → Information Protection → Sensitivity labels*
