@@ -84,7 +84,7 @@ The following table documents realistic enterprise classification scenarios used
 ### Step 1 — Open Microsoft Purview Portal
 Navigate to `compliance.microsoft.com` and sign in as Global Administrator or Compliance Administrator.
 
-![Microsoft Purview portal home page — compliance.microsoft.com](../images/01-overview/01-purview-portal-home.avif)
+![Microsoft Purview portal home page — compliance.microsoft.com](../images/01-overview/01-overview__01-purview-portal-home.avif)
 *Appendix A.3 — Microsoft Purview portal home page (compliance.microsoft.com)*
 
 ### Step 2 — Navigate to Sensitivity Labels
@@ -93,7 +93,7 @@ Information Protection → Sensitivity labels
 ```
 Review the existing label taxonomy, including default labels and any previously created custom labels.
 
-![Sensitivity Labels page showing the full label list in Information Protection](../images/02-sensitivity-labels/01-sensitivity-labels-list.avif)
+![Sensitivity Labels page showing the full label list in Information Protection](../images/02-sensitivity-labels/02-sensitivity-labels__01-sensitivity-labels-list.avif)
 *Appendix A.4 — Sensitivity Labels page — Information Protection → Sensitivity labels*
 
 ### Step 3 — Create a New Label
@@ -105,7 +105,7 @@ Configure:
 - **Description for users**: "Apply to financial records, budget files, and audit documents. Restricted to the Finance team."
 - **Color**: Purple
 
-![Create sensitivity label — basic properties screen showing name and description fields](../images/02-sensitivity-labels/12-create-label-basic-info.avif)
+![Create sensitivity label — basic properties screen showing name and description fields](../images/02-sensitivity-labels/02-sensitivity-labels__12-create-label-basic-info.avif)
 *Appendix A.5 — Create sensitivity label — basic properties (name, display name, description)*
 
 ### Step 4 — Configure Label Scope
@@ -115,7 +115,7 @@ Enable:
 
 > Groups & Sites scope is not available in this lab tenant. This is a known limitation for trial environments requiring additional Entra/M365 integration.
 
-![Label scope selection page — Files, Emails, and Groups & Sites options](../images/02-sensitivity-labels/13-label-scope-selection.avif)
+![Label scope selection page — Files, Emails, and Groups & Sites options](../images/02-sensitivity-labels/02-sensitivity-labels__13-label-scope-selection.avif)
 *Appendix A.6 — Label scope selection — Files and other data assets, Emails*
 
 ### Step 5 — Configure Protection Settings
@@ -128,7 +128,7 @@ Configure:
 - Permission level: **Co-Author** (can read, edit, save, print — cannot change permissions)
 - Content expiration: None (for this lab)
 
-![Access control configuration showing permission assignment for Finance group](../images/02-sensitivity-labels/15-assign-permissions-groups.avif)
+![Access control configuration showing permission assignment for Finance group](../images/02-sensitivity-labels/02-sensitivity-labels__15-assign-permissions-groups.avif)
 *Appendix A.7 — Access control — assign permissions, Finance group, Co-Author level*
 
 ### Step 6 — Content Marking (Optional)
@@ -150,7 +150,7 @@ Select:
 - Assign to: Finance group users (or all users if tenant-wide)
 - Enable: Require users to apply a label
 
-![Label policy configuration showing Finance Restricted label included and policy settings](../images/03-label-policies/05-publish-label-policy-settings.avif)
+![Label policy configuration showing Finance Restricted label included and policy settings](../images/03-label-policies/03-label-policies__05-publish-label-policy-settings.avif)
 *Appendix A.8 — Label policy settings — Finance Restricted label, mandatory labeling enabled*
 
 ### Step 8 — Wait for Policy Synchronization
@@ -166,7 +166,7 @@ The document is now:
 - Encrypted using Azure RMS
 - Restricted to Finance team members
 
-![Microsoft Word with Finance Restricted sensitivity label applied in the sensitivity bar](../images/04-manual-labels/03-label-applied-word.avif)
+![Microsoft Word with Finance Restricted sensitivity label applied in the sensitivity bar](../images/04-manual-labels/04-manual-labels__03-label-applied-word.avif)
 *Appendix A.9 — Word document showing Finance Restricted label applied — Azure RMS encryption active*
 
 ### Step 10 — Test Protected Content
