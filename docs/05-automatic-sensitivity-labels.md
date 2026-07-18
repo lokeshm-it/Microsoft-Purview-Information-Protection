@@ -123,7 +123,7 @@ Review built-in patterns. For this lab, locate: **Credit Card Number**
 
 The Credit Card Number SIT uses Luhn algorithm validation + keyword proximity to detect valid credit card numbers across major card networks (Visa, Mastercard, Amex, Discover).
 
-![Sensitive Information Types page showing Credit Card Number SIT selected](../images/05-auto-labels/05-sensitive-info-type-selection.avif)
+![Sensitive Information Types page showing Credit Card Number SIT selected](../images/05-auto-labels/05-auto-labels__05-sensitive-info-type-selection.avif)
 *Appendix A.10 — Sensitive Information Types — Credit Card Number pattern selected*
 
 ### Step 3 — Create the Finance Confidential Label
@@ -134,7 +134,7 @@ Information Protection → Sensitivity labels → Create a label
 Label name: `Finance Confidential`
 Protection: Encryption — Finance group permissions
 
-![Finance Confidential sensitivity label configuration — auto-labeling settings enabled](../images/05-auto-labels/01-create-label-basic-settings.avif)
+![Finance Confidential sensitivity label configuration — auto-labeling settings enabled](../images/05-auto-labels/05-auto-labels__01-create-label-basic-settings.avif)
 *Appendix A.11 — Finance Confidential label configuration — auto-labeling conditions*
 
 ### Step 4 — Create an Auto-Labeling Policy
@@ -142,7 +142,7 @@ Protection: Encryption — Finance group permissions
 Information Protection → Auto-labeling → Create auto-labeling policy
 ```
 
-![Auto-labeling policy creation wizard in Microsoft Purview portal](../images/05-auto-labels/09-auto-labeling-policy-wizard.avif)
+![Auto-labeling policy creation wizard in Microsoft Purview portal](../images/05-auto-labels/05-auto-labels__09-auto-labeling-policy-wizard.avif)
 *Appendix A.12 — Auto-labeling policy wizard — Information Protection → Auto-labeling → Create policy*
 
 ### Step 5 — Configure Detection Rules
@@ -184,7 +184,7 @@ Review all policy settings:
 
 Select: **Create policy**
 
-![Auto-labeling policy summary and review page showing Credit Card Number detection rule](../images/05-auto-labels/11-auto-labeling-policy-review.avif)
+![Auto-labeling policy summary and review page showing Credit Card Number detection rule](../images/05-auto-labels/05-auto-labels__11-auto-labeling-policy-review.avif)
 *Appendix A.13 — Auto-labeling policy review — Credit Card Number rule, Finance Confidential label, Exchange/SharePoint/OneDrive scope*
 
 ### Step 10 — Validate Auto-Labeling
