@@ -200,5 +200,5 @@ When a user opens a labeled document, Azure RMS issues a **use license** — a c
 
 ---
 
-![Label protection settings configuration showing access control and permission assignment](../images/02-sensitivity-labels/14-protection-access-control.avif)
+![Label protection settings configuration showing access control and permission assignment](../images/02-sensitivity-labels/02-sensitivity-labels__14-protection-access-control.avif)
 *Appendix A.14 — Label protection settings — access control, assign permissions, Azure RMS encryption*
