@@ -168,5 +168,5 @@ If labels are not appearing for users after publishing:
 
 ---
 
-![Label Policy configuration page showing published labels and policy settings in Microsoft Purview portal](../images/03-label-policies/05-publish-label-policy-settings.avif)
+![Label Policy configuration page showing published labels and policy settings in Microsoft Purview portal](../images/03-label-policies/03-label-policies__05-publish-label-policy-settings.avif)
 *Appendix A.2 — Label Policy configuration page — compliance.microsoft.com → Information Protection → Label policies*
