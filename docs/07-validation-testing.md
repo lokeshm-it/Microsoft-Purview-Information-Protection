@@ -39,7 +39,7 @@ All Microsoft Purview Information Protection configurations were validated again
 
 **Result:** All labels visible with correct display names, colors, and hierarchy.
 
-![Sensitivity Labels page showing all configured labels including custom Finance labels](../images/02-sensitivity-labels/01-sensitivity-labels-list.avif)
+![Sensitivity Labels page showing all configured labels including custom Finance labels](../images/02-sensitivity-labels/02-sensitivity-labels__01-sensitivity-labels-list.avif)
 *Appendix A.4 — Sensitivity Labels page — Information Protection → Sensitivity labels*
 
 ---
@@ -51,7 +51,7 @@ All Microsoft Purview Information Protection configurations were validated again
 
 **Result:** Label policy visible with correct configuration.
 
-![Label Policies page showing published policy with assigned labels and scope](../images/03-label-policies/05-publish-label-policy-settings.avif)
+![Label Policies page showing published policy with assigned labels and scope](../images/03-label-policies/03-label-policies__05-publish-label-policy-settings.avif)
 *Appendix A.2 — Label Policies page — Information Protection → Label policies*
 
 ---
@@ -66,7 +66,7 @@ All Microsoft Purview Information Protection configurations were validated again
 2. Closing and restarting Microsoft Word
 3. Confirming user was signed into the correct Microsoft 365 account
 
-![Microsoft Word sensitivity bar showing Finance Restricted label applied and available labels](../images/04-manual-labels/03-label-applied-word.avif)
+![Microsoft Word sensitivity bar showing Finance Restricted label applied and available labels](../images/04-manual-labels/04-manual-labels__03-label-applied-word.avif)
 *Appendix A.9 — Word sensitivity bar — Finance Restricted label applied, Azure RMS encryption confirmed*
 
 ---
@@ -125,7 +125,7 @@ User must select a label. Selecting "Public" or "General" satisfies the requirem
 
 **Result:** Policy visible in the Auto-labeling section with configured detection rules.
 
-![Auto-labeling policy review page showing Credit Card Number detection rule and Finance Confidential label](../images/05-auto-labels/11-auto-labeling-policy-review.avif)
+![Auto-labeling policy review page showing Credit Card Number detection rule and Finance Confidential label](../images/05-auto-labels/05-auto-labels__11-auto-labeling-policy-review.avif)
 *Appendix A.13 — Auto-labeling policy review — Credit Card Number SIT, Finance Confidential label, all locations*
 
 ---
