@@ -203,10 +203,10 @@ This lab covers the following **MS-102: Microsoft 365 Administrator** exam objec
 
 | Project | Technology | Link |
 |---|---|---|
-| P1 — Zero Trust Identity Perimeter | Conditional Access, MFA, SSPR | [View](../Project-1-Zero-Trust-Identity-Perimeter) |
-| P3 — Zero Trust Email Security | Defender for Office 365, Safe Links | [View](../Project-3-Zero-Trust-Email-Security) |
-| P6 — Entra ID Protection | Risk-based Conditional Access | [View](../Project-6-Entra-ID-Protection) |
-| P7 — SaaS & Data Visibility | Defender for Cloud Apps | [View](../Project-7-SaaS-Data-Visibility-MDCA) |
+| P1 — Zero Trust Identity Perimeter | Conditional Access, MFA, SSPR | [View](https://github.com/lokeshm-it/m365-zero-trust-identity) |
+| P3 — Zero Trust Email Security | Defender for Office 365, Safe Links | [View](https://github.com/lokeshm-it/Zero-Trust-Email-Security) |
+| P6 — Entra ID Protection | Risk-based Conditional Access | [View](https://github.com/lokeshm-it/Entra-ID-Protection) |
+| P7 — SaaS & Data Visibility | Defender for Cloud Apps | [View](https://github.com/lokeshm-it/MDCA-MDE-Integration) |
 
 ---
 
